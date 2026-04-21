@@ -80,14 +80,20 @@ app.use((err, req, res, next) => {
   });
 });
 
-const PORT = process.env.PORT || 5000;
+// Export app for Vercel serverless
+export default app;
 
-app.listen(PORT, () => {
-  console.log(`🚀 PageTurners API running on http://localhost:${PORT}`);
-});
+// Only listen in development/standalone mode
+if (process.env.NODE_ENV !== 'production') {
+  const PORT = process.env.PORT || 5000;
 
-// Graceful shutdown
-process.on('SIGINT', async () => {
-  await prisma.$disconnect();
-  process.exit(0);
-});
+  app.listen(PORT, () => {
+    console.log(`🚀 PageTurners API running on http://localhost:${PORT}`);
+  });
+
+  // Graceful shutdown
+  process.on('SIGINT', async () => {
+    await prisma.$disconnect();
+    process.exit(0);
+  });
+}
