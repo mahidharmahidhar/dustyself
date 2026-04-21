@@ -1,0 +1,12 @@
+{
+  "editor.linkedEditing": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "html.validate.scripts": false,
+  "html.validate.styles": false,
+  "css.lint.compatibleVendorPrefixes": "warning",
+  "[jinja]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

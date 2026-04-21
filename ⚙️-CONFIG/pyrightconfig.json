@@ -1,0 +1,18 @@
+{
+  "typeCheckingMode": "basic",
+  "reportGeneralTypeIssues": false,
+  "reportUnknownParameterType": false,
+  "reportUnknownMemberType": false,
+  "reportUnknownArgumentType": false,
+  "reportUnknownVariableType": false,
+  "reportPrivateImportUsage": false,
+  "reportCallIssue": false,
+  "reportConstantRedefinition": false,
+  "reportArgumentType": false,
+  "reportAssignmentType": false,
+  "ignore": [
+    "populate_books.py",
+    ".venv"
+  ],
+  "pythonVersion": "3.10"
+}

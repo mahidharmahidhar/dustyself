@@ -1,0 +1,527 @@
+2026-04-12 16:30:56,483 - INFO - ======================================================================
+2026-04-12 16:30:56,483 - INFO -    DUSTY SHELF - COMPLETE BOOK INGESTION SYSTEM
+2026-04-12 16:30:56,483 - INFO - ======================================================================
+2026-04-12 16:30:56,483 - INFO - 
+Step 1: Clearing database and resetting...
+2026-04-12 16:30:56,492 - INFO - Step 2: Creating categories...
+2026-04-12 16:30:56,526 - INFO - ✓ 6 categories ready
+
+2026-04-12 16:30:56,527 - INFO - ======================================================================
+2026-04-12 16:30:56,527 - INFO - 📚 Category: Undergraduate (Target: 70 books)
+2026-04-12 16:30:56,527 - INFO - ======================================================================
+2026-04-12 16:30:56,527 - INFO - 
+  📖 C Programming:
+2026-04-12 16:30:56,527 - INFO -     🔍 Searching: 'The C Programming Language'
+2026-04-12 16:30:56,899 - WARNING - Google Books returned status 503
+2026-04-12 16:31:05,037 - INFO -     ✓ Added: C Programming
+2026-04-12 16:31:05,847 - INFO -     ✓ Added: The C# Programming Language, 2/e
+2026-04-12 16:31:06,751 - INFO -     ✓ Added: The C# Programming Language
+2026-04-12 16:31:06,751 - INFO -     ✓ Added: A Textbook of Basics of C-Language Programming
+2026-04-12 16:31:07,495 - INFO -     ✓ Added: Learn Professional Programming in .Net Using C#, Visual Basic, and Asp.Net
+2026-04-12 16:31:08,271 - INFO -     ✓ Added: Comprehensive Computer and Languages
+2026-04-12 16:31:09,047 - INFO -     ✓ Added: Java Programming Fundamentals
+2026-04-12 16:31:09,867 - INFO -     ✓ Added: Modern C for Absolute Beginners
+2026-04-12 16:31:10,677 - INFO -     ✓ Added: Expert C Programming
+2026-04-12 16:31:11,177 - INFO -     🔍 Searching: 'C How to Program'
+2026-04-12 16:31:18,354 - INFO -     ✓ Added: C How to Program, Global Edition
+2026-04-12 16:31:19,404 - INFO -     ✓ Added: C
+2026-04-12 16:31:20,221 - INFO -     ✓ Added: Learn to Program with C
+2026-04-12 16:31:20,971 - INFO -     ✓ Added: C how to Program
+2026-04-12 16:31:21,824 - INFO -     ✓ Added: Internet & world wide web: How to program: Fourth edition
+2026-04-12 16:31:22,658 - INFO -     ✓ Added: Introduction to C Programming
+2026-04-12 16:31:23,811 - INFO -     ✓ Added: C # How To Program
+2026-04-12 16:31:24,690 - INFO -     ✓ Added: C# 2008 for Programmers, 3/e
+2026-04-12 16:31:25,431 - INFO -     ✓ Added: XML: How to Program
+2026-04-12 16:31:25,944 - INFO -     🔍 Searching: 'C Primer Plus'
+2026-04-12 16:31:33,159 - INFO -     ✓ Added: C Primer Plus
+2026-04-12 16:31:34,509 - INFO -     ✓ Added: C++ Primer Plus
+2026-04-12 16:31:34,509 - INFO -     ✓ Added: C Primer Plus, Sixth Edition
+2026-04-12 16:31:34,509 - INFO -     ✓ Added: Macintosh C Primer Plus
+2026-04-12 16:31:34,511 - INFO -     ✓ Added: The Waite Group's New C Primer Plus
+2026-04-12 16:31:35,018 - INFO - 
+  📖 Java:
+2026-04-12 16:31:35,018 - INFO -     🔍 Searching: 'Head First Java'
+2026-04-12 16:31:41,800 - INFO -     ✓ Added: Head First Java
+2026-04-12 16:31:42,749 - INFO -     ✓ Added: Head First EJB
+2026-04-12 16:31:42,761 - INFO -     💾 Committed batch 1 (25 total books)
+2026-04-12 16:31:43,598 - INFO -     ✓ Added: Head First Design Patterns
+2026-04-12 16:31:44,718 - INFO -     ✓ Added: Head First Servlets and JSP
+2026-04-12 16:31:45,610 - INFO -     ✓ Added: Head First C#
+2026-04-12 16:31:46,585 - INFO -     ✓ Added: Java Enterprise in a Nutshell
+2026-04-12 16:31:47,372 - INFO -     ✓ Added: Head first java
+2026-04-12 16:31:47,372 - INFO -     ✓ Added: Head First Android Development
+2026-04-12 16:31:47,877 - INFO -     🔍 Searching: 'Java: The Complete Reference'
+2026-04-12 16:31:48,363 - WARNING - Google Books returned status 503
+2026-04-12 16:31:59,863 - INFO -     ✓ Added: Java 2: The Complete Reference, Fifth Edition
+2026-04-12 16:32:00,590 - INFO -     ✓ Added: Java
+2026-04-12 16:32:01,322 - INFO -     ✓ Added: Java: The Complete Reference, Thirteenth Edition
+2026-04-12 16:32:01,322 - INFO -     ✓ Added: Java The Complete Reference, Seventh Edition
+2026-04-12 16:32:02,088 - INFO -     ✓ Added: Java: A Beginner's Guide, Eighth Edition
+2026-04-12 16:32:03,012 - INFO -     ✓ Added: Java: A Beginner's Guide, Ninth Edition
+2026-04-12 16:32:03,882 - INFO -     ✓ Added: JavaServer Faces: The Complete Reference
+2026-04-12 16:32:04,719 - INFO -     ✓ Added: Java The Complete Core Reference, 11th Edition
+2026-04-12 16:32:05,226 - INFO -     🔍 Searching: 'Effective Java'
+2026-04-12 16:32:10,309 - INFO -     ✓ Added: Effective Java
+2026-04-12 16:32:11,185 - INFO -     ✓ Added: Extreme Programming and Agile Methods - XP/Agile Universe 2002
+2026-04-12 16:32:11,185 - INFO -     ✓ Added: Java in Practice
+2026-04-12 16:32:11,185 - INFO -     ✓ Added: Java Pitfalls
+2026-04-12 16:32:11,185 - INFO -     ✓ Added: Java Report
+2026-04-12 16:32:11,188 - INFO -     ✓ Added: Programming Wireless Devices with the Java 2 Platform, Micro Edition
+2026-04-12 16:32:11,693 - INFO -     🔍 Searching: 'Core Java'
+2026-04-12 16:32:20,629 - INFO -     ✓ Added: Core Java for Beginners, 3rd Edition
+2026-04-12 16:32:21,499 - INFO -     ✓ Added: Core Java: An Integrated Approach: Covers Concepts, programs and Interview Questions w/CD
+2026-04-12 16:32:22,345 - INFO -     ✓ Added: Core Java 2: Fundamentals
+2026-04-12 16:32:23,207 - INFO -     ✓ Added: Core Java Professional :
+2026-04-12 16:32:23,207 - INFO -     ✓ Added: Core Java
+2026-04-12 16:32:23,215 - INFO -     💾 Committed batch 2 (50 total books)
+2026-04-12 16:32:23,994 - INFO -     ✓ Added: Core Java(Tm) Volume 1-Fundamentals, 8/E
+2026-04-12 16:32:24,496 - INFO - 
+  📖 Data Structures:
+2026-04-12 16:32:24,497 - INFO -     🔍 Searching: 'Data Structures and Algorithms'
+2026-04-12 16:32:30,134 - INFO -     ✓ Added: Data Structures And Algorithms Using C
+2026-04-12 16:32:30,954 - INFO -     ✓ Added: Data Structures And Algorithms
+2026-04-12 16:32:30,954 - INFO -     ✓ Added: Algorithms and Data Structures
+2026-04-12 16:32:31,807 - INFO -     ✓ Added: JavaScript Data Structures and Algorithms
+2026-04-12 16:32:32,679 - INFO -     ✓ Added: Data Structures , Algorithms, And Applications In Java (second Edition)
+2026-04-12 16:32:33,688 - INFO -     ✓ Added: Data Structures,Algorithms&Applications Inc++
+2026-04-12 16:32:34,803 - INFO -     ✓ Added: Data Structures and Algorithms: A First Course
+2026-04-12 16:32:34,803 - INFO -     ✓ Added: Data Structures & Algorithm Analysis in C++
+2026-04-12 16:32:35,987 - INFO -     ✓ Added: Data Structures and Algorithms in Java
+2026-04-12 16:32:36,874 - INFO -     ✓ Added: Data Structures and Algorithm Analysis in C
+2026-04-12 16:32:37,377 - INFO -     🔍 Searching: 'Introduction to Algorithms'
+2026-04-12 16:32:38,719 - WARNING - Google Books returned status 503
+2026-04-12 16:32:44,879 - INFO -     ✓ Added: Introduction to Algorithms
+2026-04-12 16:32:45,927 - INFO -     ✓ Added: Introduction to Algorithms, Data Structures and Formal Languages
+2026-04-12 16:32:45,927 - INFO -     ✓ Added: Introduction to the Theory of Science and Metaphysics
+2026-04-12 16:32:45,927 - INFO -     ✓ Added: An Introduction to Programming and Object-Oriented Design Using JAVA
+2026-04-12 16:32:45,927 - INFO -     ✓ Added: The principles of the critical philosophy. Introduction to the theory of science and metaphysics, tr. by A. Fairbanks [from Vol. 2 of Der philosophische Kriticismus].
+2026-04-12 16:32:45,927 - INFO -     ✓ Added: Introduction to Data Structures and Algorithms with C++
+2026-04-12 16:32:46,937 - INFO -     ✓ Added: Introduction to Algorithms, third edition
+2026-04-12 16:32:46,937 - INFO -     ✓ Added: Algorithms in C
+2026-04-12 16:32:47,439 - INFO -     🔍 Searching: 'Algorithm Design Manual'
+2026-04-12 16:32:47,772 - WARNING - Google Books returned status 503
+2026-04-12 16:32:52,678 - INFO -     ✓ Added: Proceedings of the Fifth Annual Conference and Exposition
+2026-04-12 16:32:53,188 - INFO - 
+  ✅ Undergraduate: 70 books added
+2026-04-12 16:32:53,188 - INFO - ======================================================================
+2026-04-12 16:32:53,188 - INFO - 📚 Category: Postgraduate (Target: 60 books)
+2026-04-12 16:32:53,188 - INFO - ======================================================================
+2026-04-12 16:32:53,188 - INFO - 
+  📖 Machine Learning:
+2026-04-12 16:32:53,188 - INFO -     🔍 Searching: 'Machine Learning'
+2026-04-12 16:32:58,511 - INFO -     ✓ Added: MACHINE LEARNING
+2026-04-12 16:32:59,501 - INFO -     ✓ Added: Machine Learning
+2026-04-12 16:33:00,303 - INFO -     ✓ Added: Machine Learning with Python
+2026-04-12 16:33:00,303 - INFO -     ✓ Added: Python Machine Learning
+2026-04-12 16:33:01,104 - INFO -     ✓ Added: Artificial Intelligence and Machine Learning Techniques for Civil Engineering
+2026-04-12 16:33:01,112 - INFO -     💾 Committed batch 3 (75 total books)
+2026-04-12 16:33:02,710 - INFO -     ✓ Added: New Advances in Machine Learning
+2026-04-12 16:33:03,690 - INFO -     ✓ Added: TinyML
+2026-04-12 16:33:04,458 - INFO -     ✓ Added: Practical Automated Machine Learning on Azure
+2026-04-12 16:33:04,971 - INFO -     🔍 Searching: 'Hands-On Machine Learning'
+2026-04-12 16:33:29,129 - INFO -     ✓ Added: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+2026-04-12 16:33:29,986 - INFO -     ✓ Added: Hands-On Machine Learning with Scikit-Learn and TensorFlow
+2026-04-12 16:33:32,974 - INFO -     ✓ Added: Hands-On Machine Learning with Scikit-Learn and PyTorch
+2026-04-12 16:33:34,179 - INFO -     ✓ Added: A Hands-On Introduction to Machine Learning
+2026-04-12 16:33:37,566 - INFO -     ✓ Added: Hands-On Machine Learning with Azure
+2026-04-12 16:33:38,669 - INFO -     ✓ Added: Hands-On Machine Learning for Algorithmic Trading
+2026-04-12 16:33:40,089 - INFO -     ✓ Added: Hands-on Deep Learning
+2026-04-12 16:33:40,871 - INFO -     ✓ Added: Hands on Data Science for Biologists Using Python
+2026-04-12 16:33:41,679 - INFO -     ✓ Added: Hands on Machine Learning with Scikit Learn
+2026-04-12 16:33:42,188 - INFO -     🔍 Searching: 'Pattern Recognition and Machine Learning'
+2026-04-12 16:33:46,070 - INFO -     ✓ Added: Pattern Recognition and Machine Learning
+2026-04-12 16:33:46,809 - INFO -     ✓ Added: Introduction To Pattern Recognition And Machine Learning
+2026-04-12 16:33:47,615 - INFO -     ✓ Added: Fundamentals of Pattern Recognition and Machine Learning
+2026-04-12 16:33:48,352 - INFO -     ✓ Added: PATTERN RECOGNITION
+2026-04-12 16:33:48,352 - INFO -     ✓ Added: PATTERN recognition and machine learning
+2026-04-12 16:33:49,137 - INFO -     ✓ Added: Introduction to Pattern Recognition and Machine Learning
+2026-04-12 16:33:49,963 - INFO -     ✓ Added: Machine Learning and Data Mining in Pattern Recognition
+2026-04-12 16:33:50,465 - INFO - 
+  📖 Artificial Intelligence:
+2026-04-12 16:33:50,466 - INFO -     🔍 Searching: 'Artificial Intelligence: A Modern Approach'
+2026-04-12 16:33:54,779 - INFO -     ✓ Added: Artificial Intelligence
+2026-04-12 16:33:55,535 - INFO -     ✓ Added: ARTIFICIAL INTELLIGENCE: A MODERN APPROACH
+2026-04-12 16:33:56,735 - INFO -     ✓ Added: Artificial Intelligence: A Modern Approach
+2026-04-12 16:33:56,735 - INFO -     ✓ Added: Decoding 'Artificial Intelligence: A Modern Approach'
+2026-04-12 16:33:57,522 - INFO -     ✓ Added: Artificial Intelligence and Its Contexts
+2026-04-12 16:33:58,352 - INFO -     ✓ Added: Artificial Intelligence and the Future of Defense
+2026-04-12 16:33:58,359 - INFO -     💾 Committed batch 4 (100 total books)
+2026-04-12 16:33:59,215 - INFO -     ✓ Added: Artificial Intelligence: A Modern Approach, Global Edition
+2026-04-12 16:33:59,986 - INFO -     ✓ Added: Artificial Intelligence and Healthcare
+2026-04-12 16:34:00,762 - INFO -     ✓ Added: Algorithms and Architectures of Artificial Intelligence
+2026-04-12 16:34:01,296 - INFO -     🔍 Searching: 'AI for Everyone'
+2026-04-12 16:34:08,068 - INFO -     ✓ Added: AI for Everyone
+2026-04-12 16:34:08,850 - INFO -     ✓ Added: AI for Everyone?
+2026-04-12 16:34:09,656 - INFO -     ✓ Added: AI for everyone - A Futuristic approach
+2026-04-12 16:34:10,496 - INFO -     ✓ Added: AI for Everyone: benefitting from and building trust in the technology
+2026-04-12 16:34:11,243 - INFO -     ✓ Added: AI for All
+2026-04-12 16:34:12,033 - INFO -     ✓ Added: Generative AI for Everyone
+2026-04-12 16:34:12,540 - INFO - 
+  📖 Advanced Algorithms:
+2026-04-12 16:34:12,540 - INFO -     🔍 Searching: 'Advanced Algorithms'
+2026-04-12 16:34:22,613 - INFO -     ✓ Added: Algorithms
+2026-04-12 16:34:23,650 - INFO -     ✓ Added: Imposing Regulation on Advanced Algorithms
+2026-04-12 16:34:23,659 - INFO -     ✓ Added: Development and Application of Advanced Algorithms for the Simulation of Viscous Compressible Flows with Moving Bodies in Three Dimensions
+2026-04-12 16:34:24,692 - INFO -     ✓ Added: Applied Parallel Computing
+2026-04-12 16:34:25,960 - INFO -     ✓ Added: Advanced Algorithms and Data Structures
+2026-04-12 16:34:27,141 - INFO -     ✓ Added: Advanced Algorithms Professional Level
+2026-04-12 16:34:27,894 - INFO -     ✓ Added: Proceedings of the International Conference on Advancing and Redesigning Education 2023
+2026-04-12 16:34:28,662 - INFO -     ✓ Added: Mastering PLC Structured Text (ST) Programming
+2026-04-12 16:34:28,662 - INFO -     ✓ Added: Algorithms in C
+2026-04-12 16:34:28,670 - INFO -     ✓ Added: Algorithms for Synthetic Aperture Radar Imagery
+2026-04-12 16:34:29,178 - INFO -     🔍 Searching: 'Competitive Programming'
+2026-04-12 16:34:34,441 - INFO -     ✓ Added: Guide to Competitive Programming
+2026-04-12 16:34:34,441 - INFO -     ✓ Added: C++ FOR COMPETITIVE PROGRAMMING
+2026-04-12 16:34:34,446 - INFO -     ✓ Added: C++ FOR COMPETITIVE PROGRAMMING WITH CMATH AND NUMCPP
+2026-04-12 16:34:34,446 - INFO -     ✓ Added: Mastering Algorithms for Competitive Programming: Unlock the Secrets of Expert-Level Skills
+2026-04-12 16:34:35,275 - INFO -     ✓ Added: Competitive Programming in Python
+2026-04-12 16:34:36,091 - INFO -     ✓ Added: A Complete Guide to Competitive Programming (part 1)
+2026-04-12 16:34:36,095 - INFO -     💾 Committed batch 5 (125 total books)
+2026-04-12 16:34:36,899 - INFO -     ✓ Added: Effective Practices in AI Literacy Education
+2026-04-12 16:34:37,639 - INFO -     ✓ Added: Mathematics for Competitive Programming and Data Structures: Mastering the Essentials
+2026-04-12 16:34:37,639 - INFO -     ✓ Added: Elements of Competitive Programming : Dynamic Programming: 88 Problems with Solutions (A Functional Approach)
+2026-04-12 16:34:38,151 - INFO - 
+  ✅ Postgraduate: 58 books added
+2026-04-12 16:34:38,151 - INFO - ======================================================================
+2026-04-12 16:34:38,151 - INFO - 📚 Category: Programming Languages (Target: 70 books)
+2026-04-12 16:34:38,151 - INFO - ======================================================================
+2026-04-12 16:34:38,151 - INFO - 
+  📖 Python:
+2026-04-12 16:34:38,151 - INFO -     🔍 Searching: 'Python Crash Course'
+2026-04-12 16:34:46,181 - INFO -     ✓ Added: Python Crash Course, 2nd Edition
+2026-04-12 16:34:46,941 - INFO -     ✓ Added: Python Crash Course
+2026-04-12 16:34:47,744 - INFO -     ✓ Added: Python: PYTHON CRASH COURSE - Beginner's Course to Learn the Basics of Python Programming Language
+2026-04-12 16:34:48,519 - INFO -     ✓ Added: Python Crash Course for Beginners
+2026-04-12 16:34:49,382 - INFO -     ✓ Added: Python Crash Course, 3rd Edition
+2026-04-12 16:34:50,092 - INFO -     ✓ Added: PYTHON CRASH COURSE
+2026-04-12 16:34:50,592 - INFO -     🔍 Searching: 'Fluent Python'
+2026-04-12 16:34:51,778 - WARNING - Google Books returned status 503
+2026-04-12 16:34:58,605 - INFO -     ✓ Added: Mastering Fluent Python
+2026-04-12 16:34:59,352 - INFO -     ✓ Added: Python Programming
+2026-04-12 16:34:59,355 - INFO -     ✓ Added: Cyclopaedia of India and of Eastern and Southern Asia, Commercial, Industrial and Scientific
+2026-04-12 16:35:00,090 - INFO -     ✓ Added: Learn Python Programming for Beginners
+2026-04-12 16:35:00,091 - INFO -     ✓ Added: Structure and Structural Change in China's Economy
+2026-04-12 16:35:00,884 - INFO -     ✓ Added: Tanmay Teaches Julia for Beginners: A Springboard to Machine Learning for All Ages
+2026-04-12 16:35:00,891 - INFO -     ✓ Added: An analytical Chinese-English dictionary
+2026-04-12 16:35:01,691 - INFO -     ✓ Added: Python Interviews
+2026-04-12 16:35:01,694 - INFO -     ✓ Added: The Saturday Review of Politics, Literature, Science, Art, and Finance
+2026-04-12 16:35:01,694 - INFO -     ✓ Added: Current Literature
+2026-04-12 16:35:02,195 - INFO -     🔍 Searching: 'Python Data Science Handbook'
+2026-04-12 16:35:10,908 - INFO -     ✓ Added: Python Data Science Handbook
+2026-04-12 16:35:10,908 - INFO -     ✓ Added: Python Data Science Handbook, 2nd Edition
+2026-04-12 16:35:11,716 - INFO -     ✓ Added: Hands-On Data Analysis with Pandas
+2026-04-12 16:35:12,502 - INFO -     ✓ Added: The Data Science Handbook
+2026-04-12 16:35:13,281 - INFO -     ✓ Added: Python for Data Science
+2026-04-12 16:35:13,994 - INFO -     ✓ Added: Python Programming
+2026-04-12 16:35:14,002 - INFO -     💾 Committed batch 6 (150 total books)
+2026-04-12 16:35:14,503 - INFO - 
+  📖 JavaScript:
+2026-04-12 16:35:14,503 - INFO -     🔍 Searching: 'Eloquent JavaScript'
+2026-04-12 16:35:20,013 - INFO -     ✓ Added: Eloquent JavaScript
+2026-04-12 16:35:20,853 - INFO -     ✓ Added: Eloquent JavaScript, 3rd Edition
+2026-04-12 16:35:21,594 - INFO -     ✓ Added: Eloquent JavaScript, 4th Edition
+2026-04-12 16:35:22,463 - INFO -     ✓ Added: Eloquent JavaScript, 2nd Ed.
+2026-04-12 16:35:23,282 - INFO -     ✓ Added: Developing Backbone.js Applications
+2026-04-12 16:35:24,235 - INFO -     ✓ Added: Eloquent Javascript
+2026-04-12 16:35:24,235 - INFO -     ✓ Added: Lógica De Programação Javascript
+2026-04-12 16:35:24,735 - INFO -     🔍 Searching: 'You Don't Know JS'
+2026-04-12 16:35:25,922 - WARNING - Google Books returned status 503
+2026-04-12 16:35:32,427 - INFO -     ✓ Added: You Don't Know JS: Async & Performance
+2026-04-12 16:35:33,242 - INFO -     ✓ Added: You Don't Know JS Yet
+2026-04-12 16:35:34,130 - INFO -     ✓ Added: You Don't Know Js
+2026-04-12 16:35:35,952 - INFO -     ✓ Added: You Don't Know JS
+2026-04-12 16:35:35,952 - INFO -     ✓ Added: Journal of Proceedings of the ... Annual Session of the Grand Aerie, Fraternal Order of Eagles
+2026-04-12 16:35:35,952 - INFO -     ✓ Added: Laughable dialogues
+2026-04-12 16:35:35,952 - INFO -     ✓ Added: Journal
+2026-04-12 16:35:35,952 - INFO -     ✓ Added: Senate documents
+2026-04-12 16:35:35,952 - INFO -     ✓ Added: Naked Lens
+2026-04-12 16:35:35,952 - INFO -     ✓ Added: The Speaker's Complete Program
+2026-04-12 16:35:36,462 - INFO -     🔍 Searching: 'JavaScript: The Good Parts'
+2026-04-12 16:35:45,880 - INFO -     ✓ Added: JavaScript: The Good Parts
+2026-04-12 16:35:45,880 - INFO -     ✓ Added: JavaScript
+2026-04-12 16:35:46,645 - INFO -     ✓ Added: Inside Creative Minds
+2026-04-12 16:35:47,502 - INFO -     ✓ Added: Professional JQuery
+2026-04-12 16:35:48,215 - INFO -     ✓ Added: HTML & CSS: The Good Parts
+2026-04-12 16:35:49,046 - INFO -     ✓ Added: Core HTML5 Canvas
+2026-04-12 16:35:49,885 - INFO -     ✓ Added: Core Java, Volume II--Advanced Features
+2026-04-12 16:35:50,613 - INFO -     ✓ Added: Core Java Volume I--Fundamentals
+2026-04-12 16:35:50,622 - INFO -     💾 Committed batch 7 (175 total books)
+2026-04-12 16:35:50,622 - INFO -     ✓ Added: Addressing the Information Needs of Nigerian Researchers, Scholars and Students
+2026-04-12 16:35:51,123 - INFO - 
+  📖 C++:
+2026-04-12 16:35:51,123 - INFO -     🔍 Searching: 'C++ Primer'
+2026-04-12 16:36:01,162 - INFO -     ✓ Added: C++ Primer
+2026-04-12 16:36:01,975 - INFO -     ✓ Added: C++ Primer Plus
+2026-04-12 16:36:02,961 - INFO -     ✓ Added: The C++ Primer
+2026-04-12 16:36:02,962 - INFO -     ✓ Added: The Complete C++ Primer
+2026-04-12 16:36:03,799 - INFO -     ✓ Added: C++ Primer for C Programmers
+2026-04-12 16:36:04,755 - INFO -     ✓ Added: C++ Primer :
+2026-04-12 16:36:05,613 - INFO -     ✓ Added: The Waite Group's C++ Primer Plus
+2026-04-12 16:36:06,122 - INFO -     🔍 Searching: 'Effective C++'
+2026-04-12 16:36:17,466 - INFO -     ✓ Added: Effective C++ Digital Collection: 140 Ways to Improve Your Programming
+2026-04-12 16:36:17,466 - INFO -     ✓ Added: Effective C++
+2026-04-12 16:36:17,466 - INFO -     ✓ Added: Effective C++, 3/e (New Edition).
+2026-04-12 16:36:18,253 - INFO -     ✓ Added: Effective C++: 55 Specific Ways To Improve Your Programs And Designs, 3/E
+2026-04-12 16:36:19,000 - INFO -     ✓ Added: Effective C++ :
+2026-04-12 16:36:19,786 - INFO -     ✓ Added: Programming with POSIX Threads
+2026-04-12 16:36:20,613 - INFO -     ✓ Added: Game Development and Production
+2026-04-12 16:36:21,121 - INFO -     🔍 Searching: 'The C++ Programming Language'
+2026-04-12 16:36:36,267 - INFO -     ✓ Added: The C++ Programming Language
+2026-04-12 16:36:37,521 - INFO -     ✓ Added: C++ Programming :
+2026-04-12 16:36:38,300 - INFO -     ✓ Added: The C++ Programming Language 5th Edition
+2026-04-12 16:36:39,024 - INFO -     ✓ Added: Programming
+2026-04-12 16:36:39,824 - INFO -     ✓ Added: The C++ Programming Language :
+2026-04-12 16:36:40,598 - INFO -     ✓ Added: C++ Programming Language Guide for Experts
+2026-04-12 16:36:41,354 - INFO -     ✓ Added: C++ Programming
+2026-04-12 16:36:42,079 - INFO -     ✓ Added: C++ For Beginners
+2026-04-12 16:36:42,588 - INFO - 
+  ✅ Programming Languages: 70 books added
+2026-04-12 16:36:42,588 - INFO - ======================================================================
+2026-04-12 16:36:42,588 - INFO - 📚 Category: Commerce (Target: 60 books)
+2026-04-12 16:36:42,588 - INFO - ======================================================================
+2026-04-12 16:36:42,588 - INFO - 
+  📖 Accounting:
+2026-04-12 16:36:42,588 - INFO -     🔍 Searching: 'Financial Accounting'
+2026-04-12 16:36:50,149 - INFO -     ✓ Added: Financial Accounting (Principles and Practices)
+2026-04-12 16:36:50,854 - INFO -     ✓ Added: Financial Accounting: A Dynamic Approach
+2026-04-12 16:36:50,864 - INFO -     💾 Committed batch 8 (200 total books)
+2026-04-12 16:36:51,669 - INFO -     ✓ Added: Financial Accounting
+2026-04-12 16:36:52,524 - INFO -     ✓ Added: Financial Accounting (For NEHU)
+2026-04-12 16:36:52,526 - INFO -     ✓ Added: Solution to Practical Problems in Financial Accounting (B.Com.)
+2026-04-12 16:36:53,304 - INFO -     ✓ Added: Accountants' Handbook, 2009 Cumulative Supplement
+2026-04-12 16:36:54,095 - INFO -     ✓ Added: Accountants' Handbook, 2011 Cumulative Supplement
+2026-04-12 16:36:54,100 - INFO -     ✓ Added: Financial Accounting Theory
+2026-04-12 16:36:54,908 - INFO -     ✓ Added: Accountants' Handbook, Special Industries and Special Topics
+2026-04-12 16:36:55,413 - INFO -     🔍 Searching: 'Accounting Principles'
+2026-04-12 16:37:02,404 - INFO -     ✓ Added: ACCOUNTING FOR MANAGERS
+2026-04-12 16:37:03,198 - INFO -     ✓ Added: Principle of Accounting by Dr. Jitendra Kumar Saxena, Dr. S. K. Singh, Mohd. Asif Khan ( SBPD Publications)
+2026-04-12 16:37:03,897 - INFO -     ✓ Added: FINANCIAL ACCOUNTING AND ANALYSIS
+2026-04-12 16:37:03,897 - INFO -     ✓ Added: Accountancy Class 11
+2026-04-12 16:37:04,645 - INFO -     ✓ Added: Accountancy Class XI by Dr. S. K. Singh, Shailesh Chauhan
+2026-04-12 16:37:05,817 - INFO -     ✓ Added: Accounting Principles
+2026-04-12 16:37:05,817 - INFO -     ✓ Added: Bihar Board Accountancy Class 11 Based on NCERT Guidelines
+2026-04-12 16:37:06,323 - INFO -     🔍 Searching: 'GAAP Handbook'
+2026-04-12 16:37:07,985 - WARNING - Google Books returned status 503
+2026-04-12 16:37:13,495 - INFO -     ✓ Added: Accounting Desk Book, 2003 Edition
+2026-04-12 16:37:14,525 - INFO -     ✓ Added: Intermediate Accounting, Volume 1 Text , Study Guide
+2026-04-12 16:37:15,439 - INFO -     ✓ Added: Miller GAAS Guide
+2026-04-12 16:37:16,267 - INFO -     ✓ Added: GAAP Handbook of Policies and Procedures (2024)
+2026-04-12 16:37:17,318 - INFO -     ✓ Added: Study Guide for Use with Fundamentals of Financial Accounting
+2026-04-12 16:37:17,318 - INFO -     ✓ Added: Wiley Practitioner's Guide to GAAS 2001
+2026-04-12 16:37:17,318 - INFO -     ✓ Added: New Serial Titles
+2026-04-12 16:37:17,318 - INFO -     ✓ Added: American Book Publishing Record
+2026-04-12 16:37:17,318 - INFO -     ✓ Added: Current Periodical Publications in Baker Library
+2026-04-12 16:37:17,318 - INFO -     ✓ Added: Faxon ... Librarians' Guide to Serials
+2026-04-12 16:37:17,830 - INFO - 
+  📖 Business Studies:
+2026-04-12 16:37:17,830 - INFO -     🔍 Searching: 'Business Essentials'
+2026-04-12 16:37:19,076 - WARNING - Google Books returned status 503
+2026-04-12 16:37:24,894 - INFO -     ✓ Added: The Indian World
+2026-04-12 16:37:24,902 - INFO -     💾 Committed batch 9 (225 total books)
+2026-04-12 16:37:24,902 - INFO -     ✓ Added: Fifty Years of New Japan
+2026-04-12 16:37:24,902 - INFO -     ✓ Added: Addresses and Proceedings - National Education Association of the United States
+2026-04-12 16:37:24,902 - INFO -     ✓ Added: Better Fruit
+2026-04-12 16:37:24,902 - INFO -     ✓ Added: Facts Against Socialism
+2026-04-12 16:37:24,902 - INFO -     ✓ Added: Journal of Proceedings and Addresses of the Annual Meeting
+2026-04-12 16:37:24,905 - INFO -     ✓ Added: The Shorthand Reporter
+2026-04-12 16:37:24,905 - INFO -     ✓ Added: Macworld
+2026-04-12 16:37:25,627 - INFO -     ✓ Added: Business Essentials, eBook, Global Edition
+2026-04-12 16:37:26,141 - INFO -     🔍 Searching: 'Principles of Management'
+2026-04-12 16:37:32,469 - INFO -     ✓ Added: PRINCIPLES OF MANAGEMENT
+2026-04-12 16:37:33,239 - INFO -     ✓ Added: Principles and Practice of Management
+2026-04-12 16:37:34,193 - INFO -     ✓ Added: Principles of Management
+2026-04-12 16:37:34,904 - INFO -     ✓ Added: Principles of Management, 2e
+2026-04-12 16:37:35,632 - INFO -     ✓ Added: Principles and Practices of Management
+2026-04-12 16:37:35,632 - INFO -     ✓ Added: Principles of Management- SBPD Publications
+2026-04-12 16:37:36,139 - INFO -     🔍 Searching: 'Strategic Management'
+2026-04-12 16:37:41,780 - INFO -     ✓ Added: Strategic Management (Text and Cases)
+2026-04-12 16:37:42,496 - INFO -     ✓ Added: Fundamentals of Strategic Management' 2007 Ed.
+2026-04-12 16:37:43,322 - INFO -     ✓ Added: Strategic Management
+2026-04-12 16:37:44,046 - INFO -     ✓ Added: Strategic Management in Islamic Finance
+2026-04-12 16:37:44,771 - INFO -     ✓ Added: Strategic Management: Tools and Techniques for Competitive Advantage
+2026-04-12 16:37:45,559 - INFO -     ✓ Added: The Strategic Management of Health Care Organizations
+2026-04-12 16:37:46,072 - INFO - 
+  📖 Economics:
+2026-04-12 16:37:46,073 - INFO -     🔍 Searching: 'Economics'
+2026-04-12 16:38:03,404 - INFO -     ✓ Added: Economics for Beginners
+2026-04-12 16:38:04,127 - INFO -     ✓ Added: MANAGERIAL ECONOMICS
+2026-04-12 16:38:05,092 - INFO -     ✓ Added: Routledge Handbook of the History of Global Economic Thought
+2026-04-12 16:38:05,983 - INFO -     ✓ Added: Economic Analysis of the DCFR
+2026-04-12 16:38:06,758 - INFO -     ✓ Added: India’s Economic Resurgence
+2026-04-12 16:38:06,767 - INFO -     💾 Committed batch 10 (250 total books)
+2026-04-12 16:38:07,576 - INFO -     ✓ Added: Foundations of Economic Method
+2026-04-12 16:38:07,576 - INFO -     ✓ Added: The Evolution of the Study of Economics in the Junior and Senior High Schools of the United States ...
+2026-04-12 16:38:07,576 - INFO -     ✓ Added: Economics as a Science
+2026-04-12 16:38:07,576 - INFO -     ✓ Added: Journal of Farm Economics
+2026-04-12 16:38:07,576 - INFO -     ✓ Added: Undergraduate Announcement
+2026-04-12 16:38:08,087 - INFO -     🔍 Searching: 'Microeconomics'
+2026-04-12 16:38:17,193 - INFO -     ✓ Added: Microeconomics
+2026-04-12 16:38:18,067 - INFO -     ✓ Added: Microeconomic Policy
+2026-04-12 16:38:18,877 - INFO -     ✓ Added: Principles Of Microeconomics, 2Nd Ed
+2026-04-12 16:38:19,380 - INFO - 
+  ✅ Commerce: 60 books added
+2026-04-12 16:38:19,380 - INFO - ======================================================================
+2026-04-12 16:38:19,380 - INFO - 📚 Category: Mythology & Religious Texts (Target: 50 books)
+2026-04-12 16:38:19,380 - INFO - ======================================================================
+2026-04-12 16:38:19,380 - INFO - 
+  📖 Indian Epics:
+2026-04-12 16:38:19,380 - INFO -     🔍 Searching: 'Mahabharata'
+2026-04-12 16:38:23,448 - INFO -     ✓ Added: The Mahabharata, Volume 1
+2026-04-12 16:38:24,203 - INFO -     ✓ Added: The Mahabharata
+2026-04-12 16:38:24,204 - INFO -     ✓ Added: The Mahabharata as a History and a Drama
+2026-04-12 16:38:25,085 - INFO -     ✓ Added: MAHABHARATA
+2026-04-12 16:38:25,085 - INFO -     ✓ Added: Pictorial Mahabharata
+2026-04-12 16:38:26,035 - INFO -     ✓ Added: A Pilgrimage Through the Mahabharata
+2026-04-12 16:38:26,037 - INFO -     ✓ Added: Mahabharata
+2026-04-12 16:38:26,037 - INFO -     ✓ Added: Ramayana, a Holy Bible of India
+2026-04-12 16:38:26,037 - INFO -     ✓ Added: The Abhijñānaśākuntalam of Kālidāsa
+2026-04-12 16:38:26,037 - INFO -     ✓ Added: Indian philosophy
+2026-04-12 16:38:26,037 - INFO -     ✓ Added: Bhagavad-Gita
+2026-04-12 16:38:26,037 - INFO -     ✓ Added: Jaya
+2026-04-12 16:38:26,037 - INFO -     ✓ Added: THE MAHABHARATA
+2026-04-12 16:38:26,037 - INFO -     ✓ Added: Mahabharata Unravelled (Hindi)
+2026-04-12 16:38:26,037 - INFO -     ✓ Added: The Ramayana
+2026-04-12 16:38:26,548 - INFO -     🔍 Searching: 'Ramayana'
+2026-04-12 16:38:26,898 - WARNING - Google Books returned status 503
+2026-04-12 16:38:27,329 - WARNING - Google Books returned status 503
+2026-04-12 16:38:38,107 - WARNING - Open Library timeout for query 'Ramayana'
+2026-04-12 16:38:44,309 - INFO -     ✓ Added: Valmiki's Ramayana
+2026-04-12 16:38:44,309 - INFO -     ✓ Added: Ramayana
+2026-04-12 16:38:44,317 - INFO -     💾 Committed batch 11 (275 total books)
+2026-04-12 16:38:44,317 - INFO -     ✓ Added: Rāmacaritamānasa
+2026-04-12 16:38:44,317 - INFO -     ✓ Added: Rāmāyaṇa and Rāmāyaṇas
+2026-04-12 16:38:44,317 - INFO -     ✓ Added: Valmiki Ramayana
+2026-04-12 16:38:44,317 - INFO -     ✓ Added: Rāmāyaṇam
+2026-04-12 16:38:44,317 - INFO -     ✓ Added: Rāmāyaṇa
+2026-04-12 16:38:44,831 - INFO -     🔍 Searching: 'Bhagavad Gita'
+2026-04-12 16:38:57,704 - INFO -     ✓ Added: Bhagavad-gita As It Is
+2026-04-12 16:38:58,480 - INFO -     ✓ Added: Bhagavad Gita
+2026-04-12 16:38:59,205 - INFO -     ✓ Added: The Bhagavad Gita
+2026-04-12 16:39:00,078 - INFO -     ✓ Added: Krishna's Song
+2026-04-12 16:39:00,918 - INFO -     ✓ Added: Bhagavad Gita for Modern Times
+2026-04-12 16:39:01,708 - INFO -     ✓ Added: Srimad Bhagavad Gita - Gita Rahasya
+2026-04-12 16:39:02,555 - INFO -     ✓ Added: Bhagavad Gita and Its Message
+2026-04-12 16:39:02,555 - INFO -     ✓ Added: Bhagavad Gita (in English)
+2026-04-12 16:39:02,558 - INFO -     ✓ Added: The Bhagwat Gita
+2026-04-12 16:39:02,558 - INFO -     ✓ Added: Bhagavad-Gita
+2026-04-12 16:39:02,559 - INFO -     ✓ Added: The Bhagavad gita
+2026-04-12 16:39:02,559 - INFO -     ✓ Added: The Bhagavad-Gita
+2026-04-12 16:39:02,559 - INFO -     ✓ Added: Shrimad Bhagvat
+2026-04-12 16:39:02,559 - INFO -     ✓ Added: Bhagavad Gītā
+2026-04-12 16:39:02,559 - INFO -     ✓ Added: भगवद्गीता
+2026-04-12 16:39:03,068 - INFO - 
+  📖 Religious Texts:
+2026-04-12 16:39:03,069 - INFO -     🔍 Searching: 'The Bible'
+2026-04-12 16:39:19,557 - INFO -     ✓ Added: Lands of the Bible
+2026-04-12 16:39:20,376 - INFO -     ✓ Added: The Bible's Four Gospels
+2026-04-12 16:39:21,219 - INFO -     ✓ Added: The Bible's Prophets
+2026-04-12 16:39:21,223 - INFO -     ✓ Added: The Bible for Home and School
+2026-04-12 16:39:21,223 - INFO -     ✓ Added: The Bible and the Churches from the Beginning of the World. [By G. Fryer.]
+2026-04-12 16:39:21,231 - INFO -     💾 Committed batch 12 (300 total books)
+2026-04-12 16:39:21,231 - INFO -     ✓ Added: The Bible for the boys and girls, an address
+2026-04-12 16:39:21,231 - INFO -     ✓ Added: The Bible’s accurate and textual reliability
+2026-04-12 16:39:21,231 - INFO -     ✓ Added: The Wines of the Bible
+2026-04-12 16:39:21,231 - INFO -     ✓ Added: Dr. William Smith's Dictionary of the Bible
+2026-04-12 16:39:21,234 - INFO -     ✓ Added: The Biblical World
+2026-04-12 16:39:21,746 - INFO -     🔍 Searching: 'The Quran'
+2026-04-12 16:39:33,659 - INFO -     ✓ Added: Who Is Allah? The Concept of God in Islam
+2026-04-12 16:39:34,569 - INFO -     ✓ Added: World Religions and Islam
+2026-04-12 16:39:34,569 - INFO -     ✓ Added: Islam and the Oriental Churches
+2026-04-12 16:39:35,078 - INFO - 
+  ✅ Mythology & Religious Texts: 50 books added
+2026-04-12 16:39:35,079 - INFO - ======================================================================
+2026-04-12 16:39:35,079 - INFO - 📚 Category: Story & Fiction (Target: 60 books)
+2026-04-12 16:39:35,079 - INFO - ======================================================================
+2026-04-12 16:39:35,079 - INFO - 
+  📖 Science Fiction:
+2026-04-12 16:39:35,079 - INFO -     🔍 Searching: 'Dune'
+2026-04-12 16:39:41,604 - INFO -     ✓ Added: The Science of Dune
+2026-04-12 16:39:42,389 - INFO -     ✓ Added: Coastal Dune Management
+2026-04-12 16:39:43,137 - INFO -     ✓ Added: Sand Dune Stabilization, Shelterbelts and Afforestation in Dry Zones
+2026-04-12 16:39:43,137 - INFO -     ✓ Added: The Making of Dune
+2026-04-12 16:39:43,137 - INFO -     ✓ Added: Science
+2026-04-12 16:39:43,137 - INFO -     ✓ Added: The Ohio Naturalist
+2026-04-12 16:39:43,139 - INFO -     ✓ Added: The Geographical Journal
+2026-04-12 16:39:43,139 - INFO -     ✓ Added: Report on the Sand Dunes of New Zealand
+2026-04-12 16:39:43,139 - INFO -     ✓ Added: Scientific Results of a Journey in Central Asia 1899-1902: Lop-Nor, by Sven Hedin [1905
+2026-04-12 16:39:43,654 - INFO -     🔍 Searching: 'Foundation'
+2026-04-12 16:39:51,321 - INFO -     ✓ Added: Philanthropic Foundations
+2026-04-12 16:39:52,064 - INFO -     ✓ Added: Philanthropic Foundations in International Development
+2026-04-12 16:39:52,064 - INFO -     ✓ Added: Tax-exempt Foundations: Their Impact Om Small Business, Hearings Before Subcommittee No. 1 of ... , 90-1, Pursuant to H. Res. 53 ... , October 30 - November 17, 1967
+2026-04-12 16:39:52,067 - INFO -     ✓ Added: Annual Report
+2026-04-12 16:39:52,067 - INFO -     ✓ Added: Foundation Considerations in Siting of Nuclear Facilities in Karst Terrains and Other Areas Susceptible to Ground Collapse
+2026-04-12 16:39:52,067 - INFO -     ✓ Added: The National Beekeepers' Directory
+2026-04-12 16:39:52,067 - INFO -     ✓ Added: Dominion Experimental Farms in ...
+2026-04-12 16:39:52,069 - INFO -     ✓ Added: Annual Report of the Secretary of the State Board of Agriculture of the State of Michigan and ... Annual Report of the Agricultural College Experiment Station from ...
+2026-04-12 16:39:52,075 - INFO -     💾 Committed batch 13 (325 total books)
+2026-04-12 16:39:52,077 - INFO -     ✓ Added: Annual Report of the Ontario Agricultural College and Experimental Farm
+2026-04-12 16:39:52,580 - INFO -     🔍 Searching: 'Neuromancer'
+2026-04-12 16:40:05,737 - INFO -     ✓ Added: Neuromancer
+2026-04-12 16:40:06,520 - INFO -     ✓ Added: William Gibson's "Neuromancer"
+2026-04-12 16:40:07,250 - INFO -     ✓ Added: A Study Guide for William Gibson's "Neuromancer"
+2026-04-12 16:40:08,020 - INFO -     ✓ Added: William Gibson's 'Neuromancer' and the Relation Between Mind and Body
+2026-04-12 16:40:08,022 - INFO -     ✓ Added: Postmodern Postures
+2026-04-12 16:40:08,023 - INFO -     ✓ Added: When We Pretend that We're Dead
+2026-04-12 16:40:08,023 - INFO -     ✓ Added: Tax Court Memorandum Decisions
+2026-04-12 16:40:08,921 - INFO -     ✓ Added: Fantasy Art Masters
+2026-04-12 16:40:09,428 - INFO -     🔍 Searching: 'The Three-Body Problem'
+2026-04-12 16:40:18,241 - INFO -     ✓ Added: The Three-Body Problem
+2026-04-12 16:40:19,054 - INFO -     ✓ Added: The Three-Body Problem Trilogy
+2026-04-12 16:40:19,945 - INFO -     ✓ Added: Poincare and the Three Body Problem
+2026-04-12 16:40:19,945 - INFO -     ✓ Added: Nuclear Science Abstracts
+2026-04-12 16:40:19,945 - INFO -     ✓ Added: A Class of Asymptotic Orbits in the Problem of Three Bodies ...
+2026-04-12 16:40:19,945 - INFO -     ✓ Added: Bulletin (new Series) of the American Mathematical Society
+2026-04-12 16:40:19,945 - INFO -     ✓ Added: The capture theory of cosmical evolution, founded on dynamical principles and illustrated by phenomena observed in the spiral nebulae, the planetary system, the double and multiple stars and clusters and the star-clouds of the Milky way
+2026-04-12 16:40:19,945 - INFO -     ✓ Added: Periodic Oscillating Satellites in the Problem of Three Bodies
+2026-04-12 16:40:20,453 - INFO - 
+  📖 Fantasy:
+2026-04-12 16:40:20,453 - INFO -     🔍 Searching: 'Harry Potter'
+2026-04-12 16:42:14,278 - WARNING - Open Library error for 'Harry Potter': ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-04-12 16:42:14,408 - WARNING - Open Library error for 'Harry Potter': HTTPSConnectionPool(host='openlibrary.org', port=443): Max retries exceeded with url: /search.json?q=Harry+Potter&limit=10&offset=10 (Caused by NameResolutionError("HTTPSConnection(host='openlibrary.org', port=443): Failed to resolve 'openlibrary.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-12 16:42:14,536 - INFO -     ✓ Added: Harry Potter
+2026-04-12 16:42:14,551 - INFO -     ✓ Added: Harry Potter and the Sorcerer's Stone
+2026-04-12 16:42:14,561 - INFO -     ✓ Added: ‏هيرى پوٹر اور رازوں کا کمره :‏
+2026-04-12 16:42:14,567 - INFO -     ✓ Added: Good vs. Evil in Harry Potter
+2026-04-12 16:42:14,575 - INFO -     ✓ Added: Harry Potter and the Philosopher's Stone
+2026-04-12 16:42:14,575 - INFO -     ✓ Added: Harry Potter and the Sorcerer's Stone by J.K. Rowling
+2026-04-12 16:42:14,583 - INFO -     ✓ Added: The Wisdom of Harry Potter
+2026-04-12 16:42:14,592 - INFO -     ✓ Added: Friends and Foes of Harry Potter
+2026-04-12 16:42:14,601 - INFO -     💾 Committed batch 14 (350 total books)
+2026-04-12 16:42:14,617 - INFO -     ✓ Added: Harry Potter and the Chamber of Secrets
+2026-04-12 16:42:15,128 - INFO -     🔍 Searching: 'Lord of the Rings'
+2026-04-12 16:42:15,128 - WARNING - Google Books error for 'Lord of the Rings': HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /books/v1/volumes?q=Lord+of+the+Rings&startIndex=0&maxResults=10&fields=items%28volumeInfo%28title%2Cauthors%2CpublishedDate%2Cpublisher%2Cdescription%2CimageLinks%2CindustryIdentifiers%29%29 (Caused by NameResolutionError("HTTPSConnection(host='www.googleapis.com', port=443): Failed to resolve 'www.googleapis.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-12 16:42:15,257 - WARNING - Google Books error for 'Lord of the Rings': HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /books/v1/volumes?q=Lord+of+the+Rings&startIndex=10&maxResults=10&fields=items%28volumeInfo%28title%2Cauthors%2CpublishedDate%2Cpublisher%2Cdescription%2CimageLinks%2CindustryIdentifiers%29%29 (Caused by NameResolutionError("HTTPSConnection(host='www.googleapis.com', port=443): Failed to resolve 'www.googleapis.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-12 16:42:31,232 - INFO -     🔍 Searching: 'A Game of Thrones'
+2026-04-12 16:42:39,891 - INFO -     ✓ Added: A Game of Thrones (A Song of Ice and Fire)
+2026-04-12 16:42:40,664 - INFO -     ✓ Added: George R. R. Martin's A Game of Thrones
+2026-04-12 16:42:41,444 - INFO -     ✓ Added: A Game of Thrones by George R. R. Martin (Book Analysis)
+2026-04-12 16:42:42,258 - INFO -     ✓ Added: A Game of Thrones: Graphic Novel, Volume One (A Song of Ice and Fire)
+2026-04-12 16:42:43,118 - INFO -     ✓ Added: A Game of Thrones Enhanced Edition (A Song of Ice and Fire, Book 1)
+2026-04-12 16:42:43,831 - INFO -     ✓ Added: A Game of Thrones: The Graphic Novel
+2026-04-12 16:42:44,824 - INFO -     ✓ Added: A Game of Thrones. From Novel to TV
+2026-04-12 16:42:45,797 - INFO -     ✓ Added: A Game of Thrones
+2026-04-12 16:42:46,544 - INFO -     ✓ Added: 100 Things Game of Thrones Fans Should Know & Do Before They Die
+2026-04-12 16:42:47,329 - INFO -     ✓ Added: e-Pedia: Game of Thrones (season 6)
+2026-04-12 16:42:47,834 - INFO - 
+  📖 Mystery & Thriller:
+2026-04-12 16:42:47,834 - INFO -     🔍 Searching: 'Girl on the Train'
+2026-04-12 16:42:53,735 - INFO -     ✓ Added: The Girl on the Train
+2026-04-12 16:42:54,496 - INFO -     ✓ Added: The Girl on the Train by Paula Hawkins (Book Analysis)
+2026-04-12 16:42:54,496 - INFO -     ✓ Added: Focus On: 100 Most Popular Films Based on British Novels
+2026-04-12 16:42:54,496 - INFO -     ✓ Added: Focus On: 100 Most Popular American Romantic Drama Films
+2026-04-12 16:42:55,340 - INFO -     ✓ Added: Summary of The Girl on the Train
+2026-04-12 16:42:55,846 - INFO -     🔍 Searching: 'Gone Girl'
+2026-04-12 16:43:00,367 - INFO -     ✓ Added: Gone Girl
+2026-04-12 16:43:01,096 - INFO -     ✓ Added: Antiheroines of Contemporary Media
+2026-04-12 16:43:01,603 - INFO - 
+  ✅ Story & Fiction: 60 books added
+2026-04-12 16:43:01,611 - INFO - 
+✅ Final commit complete
+2026-04-12 16:43:01,621 - INFO - 
+======================================================================
+2026-04-12 16:43:01,623 - INFO - ✅ INGESTION COMPLETE!
+2026-04-12 16:43:01,623 - INFO -    Total books ingested: 368
+2026-04-12 16:43:01,623 - INFO -    Target: 370
+2026-04-12 16:43:01,623 - INFO -    Achievement: 99.5%
+2026-04-12 16:43:01,623 - INFO -    Duration: 725.1 seconds
+2026-04-12 16:43:01,625 - INFO - ======================================================================
