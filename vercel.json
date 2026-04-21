@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd dusty-shelf && npm install --legacy-peer-deps && npm run build",
+  "outputDirectory": "dusty-shelf/dist"
+}
