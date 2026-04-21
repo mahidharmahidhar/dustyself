@@ -5,14 +5,5 @@
     "api/index.js": {
       "maxDuration": 60
     }
-  },
-  "env": [
-    "DATABASE_URL",
-    "JWT_SECRET",
-    "STRIPE_SECRET_KEY",
-    "CLOUDINARY_CLOUD_NAME",
-    "CLOUDINARY_API_KEY",
-    "CLOUDINARY_API_SECRET",
-    "NODE_ENV"
-  ]
+  }
 }
